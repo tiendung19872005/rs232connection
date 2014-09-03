@@ -1,0 +1,4 @@
+E:\DUNG\BaiTap\CS\rs232connection\rs232connection\bin\Debug\rs232connection.exe
+E:\DUNG\BaiTap\CS\rs232connection\rs232connection\bin\Debug\rs232connection.pdb
+E:\DUNG\BaiTap\CS\rs232connection\rs232connection\obj\x86\Debug\rs232connection.exe
+E:\DUNG\BaiTap\CS\rs232connection\rs232connection\obj\x86\Debug\rs232connection.pdb
